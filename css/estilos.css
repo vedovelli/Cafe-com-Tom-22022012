@@ -1,1 +1,39 @@
-/**/
+body{
+	
+	padding: 100px 0px 40px 0px;
+	color: #4b4b4b;
+
+}
+
+
+.ved-headline{
+
+	width:940px;
+	height: 200px;
+	margin: 0 auto;
+	padding: 25px;
+	background: url(../img/vedovelli.png) left top no-repeat;
+
+}
+
+.ved-headline h1{
+
+	font-size:40px;
+	margin: 0 0 12px;
+	padding: 0;
+	margin-left: 200px;
+
+}
+
+.ved-headline h2{
+
+	font-size:30px;
+	line-height:40px;
+	margin-left: 200px;
+
+}
+
+#cbExemplos{
+	position: absolute;
+	left: 150px;
+}
